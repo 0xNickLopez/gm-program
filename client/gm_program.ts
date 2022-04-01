@@ -53,7 +53,7 @@ const PROGRAM_SO_PATH = path.join(PROGRAM_PATH, 'gm_program.so');
  */
 const PROGRAM_KEYPAIR_PATH = path.join(PROGRAM_PATH, 'gm_program-keypair.json');
 
-const NAME_FOR_GM='Glass Chewer'
+const NAME_FOR_GM='Solana Monke Reject'
 
 /**
  * Borsh class and schema definition for greeting accounts
